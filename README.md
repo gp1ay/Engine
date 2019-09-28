@@ -1,4 +1,4 @@
-# VSourceEngine
+# VSourceEngine (Based on Quiver)
 Custom Source Engine branch based on Source Engine 2007, currently available on Windows in x86.
 Graphics upgrade
 
