@@ -1,5 +1,6 @@
-# Quiver
+# VSourceEngine
 Custom Source Engine branch based on Source Engine 2007, currently available on Windows in x86.
+Graphics upgrade
 
 **Pull this repository with recursive submodules (`git clone --recursive`) to clone hl2r**
 
